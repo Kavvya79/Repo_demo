@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^21.6.1"
+  },
+  "name": "webmessaging",
+  "version": "1.0.0",
+  "main": "webMessage.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
